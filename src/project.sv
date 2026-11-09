@@ -50,6 +50,7 @@ endmodule
 //_\SV
 
 
+
 // The Tiny Tapeout module.
 module tt_um_stevehoover_mc_demo1 (
     input  wire [7:0] ui_in,    // Dedicated inputs - connected to the input switches
@@ -126,7 +127,7 @@ logic COUNT_reset_a1;
 
 // ---------- Generated Code Ends ----------
 //_\TLV
-   //_\source project.tlv 32   // Instantiated from project.tlv, 125 as: m5+my_design.
+   //_\source project.tlv 32   // Instantiated from project.tlv, 126 as: m5+my_design.
    
       // ============================================
       // If you are using TL-Verilog for your design,

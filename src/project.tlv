@@ -104,7 +104,6 @@ m5_if(m5_debounce_inputs, ['m5_tt_top(m5_my_design)'])
 \SV
 
 
-
 // The Tiny Tapeout module.
 module m5_user_module_name (
     input  wire [7:0] ui_in,    // Dedicated inputs - connected to the input switches
